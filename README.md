@@ -1,8 +1,22 @@
 # AutoRia Scrapper Bot
 
-Парсинг оголошень AutoRia і надсилання їх у Telegram.
+A Telegram bot for automatically scraping car listings from [AutoRia.com](https://auto.ria.com) and sending them to Telegram.
 
-## Встановлення
+---
+
+## Features
+
+✅ Search for the latest car listings on AutoRia  
+✅ Automatically send results to a Telegram chat  
+✅ Flexible search filters  
+✅ Easy setup and deployment
+
+---
+
+## Installation
+
+1️⃣ Clone this repository:
 
 ```bash
-pip install -r requirements.txt
+git clone https://github.com/Bulleter06/AutoRiaScrapperBot.git
+cd AutoRiaScrapperBot
